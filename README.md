@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yohannees
+- 👀 I’m interested in algorithim development
+- 🌱 I’m currently learning mql4
+- 💞️ I’m looking to collaborate on software development 
+- 📫 you can reach me at yohannesgetachewerieso@gmail.com
