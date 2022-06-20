@@ -1,12 +1,11 @@
-👋 Hi, I’m @yohannees
-👀 I’m interested in algorithm development and automated trading 
-💞️ I’m looking to collaborate on software development
-📫 you can reach me at yohannesgetachewerieso@gmail.com
+👋 Hi, I’m @yohannees<br/>
+👀 I’m interested in algorithm development and automated trading <br/>
+💞️ I’m looking to collaborate on software development<br/>
+📫 you can reach me at yohannesgetachewerieso@gmail.com<br/>
 
 ### SOCIALS
 
 <p align="left"> <a href="https://www.github.com/yohannees" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 
 <br/>
 
