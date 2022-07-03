@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi, I’m @yohannees </h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-- 🌱 I’m currently learning **mql4**
 
-- 👯 I’m looking to collaborate on **software development**
+- 👯 I’m looking to collaborate on **front end development and UI/UX Designing**
 
 - 📫 How to reach me **yohannesgetachewerieso@gmail.com**
 
