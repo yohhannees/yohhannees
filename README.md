@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm YOHANNES</h1>
 <h1 align="center"> Frontend Developer and UX-UI Designer</h1>
 
-🔭 I’m currently working on  Web Development And Designing<br>👯 I’m looking to collaborate on Front End Development<br>🌱 I’m currently learning Full stack Development And UI-UX Design<br>📫 How to reach me yohannesgetachewerieso@gmail.com<br>
+🔭 I’m currently working on  Web Development And Designing<br>
+👯 I’m looking to collaborate on Front End Development<br>
+🌱 I’m currently learning Full stack Development And UI-UX Design<br>
+📫 You Can Reach Me At 📧 yohannesgetachewerieso@gmail.com<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yohhannees) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yohannes-getachew-667a1b241) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@yohhannees) 
@@ -17,5 +20,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=yohannees&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yohannees&theme=midnight-purple&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yohannees&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
