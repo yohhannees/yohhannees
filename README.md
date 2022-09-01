@@ -6,6 +6,11 @@
 👯 I’m looking to collaborate on Front End Development<br>
 🌱 I’m currently learning Full stack Development And UI-UX Design<br>
 📫 You Can Reach Me At 📧 yohannesgetachewerieso@gmail.com<br>
+## portfolio:
+
+<p align="center"> <a href="https://yohannees.github.io/My-Portfolio/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> 
+<p align="center"> <a href="https://dribbble.com/yohhannees/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=green&style=for-the-badge" style="vertical-align:center" /></a> </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yohhannees) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yohannes-getachew-667a1b241) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@yohhannees) 
