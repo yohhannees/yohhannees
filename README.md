@@ -3,8 +3,7 @@
 <h1 align="center"> Frontend Developer and UX-UI Designer</h1>
 
 🔭 I’m currently working on  Web Development And Designing<br>
-👯 I’m looking to collaborate on Front End Development<br>
-🌱 I’m currently learning Full stack Development And UI-UX Design<br>
+
 📫 You Can Reach Me At 📧 yohannesgetachewerieso@gmail.com<br>
 ## portfolio:
 
