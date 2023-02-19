@@ -27,5 +27,5 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/yohhannees"><img src="https://github-readme-stats.vercel.app/api?username=yohhannees&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yohhannees's GitHub stats" /></a>&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohhannees&&theme=tokyonight)
+<a href="http://www.github.com/yohhannees"><img src="https://github-readme-stats.vercel.app/api?username=yohhannees&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yohhannees's GitHub stats" /></a>&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohhannees&langs_count=20&theme=tokyonight)
 
