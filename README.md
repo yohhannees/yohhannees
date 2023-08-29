@@ -3,8 +3,9 @@
 <h1 align="center"> Software Engineer and UX-UI Designer</h1>
 
 🔭 I’m currently working on  Web Development And Designing<br>
+You can connect with me on various platforms:
 
-📫 You Can Reach Me At 📧 yohannesgetachewerieso@gmail.com<br>
+<a href="mailto:yohannesgetachewerieso@gmail.com"><img align="left" alt="Gmail" width="40px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" /></a> yohannesgetachewerieso@gmail.com<br>
 <!-- ## Portfolio:
 
 <p> <a href="https://yohannees.github.io/My-Portfolio/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> 
@@ -12,15 +13,17 @@
  -->
 
 ## 🌐Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yohhannees) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yohannes-getachew-667a1b241) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@yohhannees) <a href="https://leetcode.com/yohhannees/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yohhannees" height="40" width="70" /></a>
+[<img align="left" alt="Telegram" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" />](https://t.me/yohhannees/)
+[<img align="left" alt="LinkedIn" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />](https://www.linkedin.com/in/yohannes-getachew-667a1b241/)
+[<img align="left" alt="LeetCode" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />](https://leetcode.com/yohhannees/)
 
-
+<br />
+<br />
 
 ## 💻 Languages and Tools:
-
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,php,html,css,bootstrap,sass,tailwind,react,next,redux,angular,mysql,nodejs,git,firebase,figma,xd&perline=21" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,php,html,css,bootstrap,sass,tailwind,react,next,redux,angular,mysql,nodejs,firebase,git,azure,figma,xd&perline=22" />
   </a>
 </p>
 
