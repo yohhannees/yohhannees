@@ -23,7 +23,7 @@ You can connect with me on various platforms:
 ## 💻 Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,php,html,css,bootstrap,sass,tailwind,react,next,redux,angular,mysql,nodejs,firebase,git,azure,figma,xd&perline=22" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,php,html,css,bootstrap,sass,tailwind,react,next,redux,angular,mongodb,mysql,postgres,nodejs,express,nestjs,laravel,prisma,firebase,supabase,postman,docker,wordpress,vercel,git,azure,gitlab,figma,xd&perline=17" />
   </a>
 </p>
 
