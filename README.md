@@ -1,6 +1,7 @@
 
-<h1 >Yohannes Getachew</h1>
-<h1 > Software Engineer | Fullstack Develeoper | UX-UI Designer</h1>
+<h1>Yohannes Getachew</h1>
+<h1>👨‍💻 Software Engineer | 🖥️ Fullstack Developer | 🎨 UX-UI Designer</h1>
+
 
 <!-- ## Portfolio:
 
@@ -15,6 +16,12 @@
 <a href="mailto:yohannesgetachewerieso@gmail.com"><img align="left" alt="Gmail" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" /></a><br>
 
 <br />
+
+<!--
+<h1>About Me</h1>
+<h3>🎓 Software Engineering Student at AASTU</h3>
+<h3>💻 Developer at Muyalogy</h3>
+<h3>🌐 GDSC React Mentor</h3>
 
 ## 💻 Tech Stack:
 <p>
@@ -36,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohhannees&theme=highcontrast&langs_count=20&hide_border=false&count_private=true&hide=html,css,scss" />
 </p>
 
-
+ -->
 
 
 
