@@ -1,6 +1,6 @@
 
 <h1>Yohannes Getachew</h1>
-<h1>👨‍💻 Software Engineer | 🖥️ Fullstack Developer | 🎨 UX-UI Designer</h1>
+<h1>Software Engineer | Fullstack Developer | UX-UI Designer</h1>
 
 
 <!-- ## Portfolio:
