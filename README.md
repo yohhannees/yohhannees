@@ -13,7 +13,10 @@
 [<img align="left" alt="Telegram" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" />](https://t.me/yohhannees/)
 [<img align="left" alt="LinkedIn" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />](https://www.linkedin.com/in/yohannes-getachew-667a1b241/)
 [<img align="left" alt="LeetCode" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />](https://leetcode.com/yohhannees/)
-<a href="mailto:yohannesgetachewerieso@gmail.com"><img align="left" alt="Gmail" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" /></a><br>
+[<img align="left" alt="LeetCode" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" />](https://www.behance.net/yohannesgetachew)
+<a href="mailto:yohannesgetachewerieso@gmail.com"><img align="left" alt="Gmail" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" /></a>
+
+<br>
 
 <br />
 
