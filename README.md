@@ -17,8 +17,16 @@
 <a href="mailto:yohannesgetachewerieso@gmail.com"><img align="left" alt="Gmail" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" /></a>
 
 <br>
-
 <br />
+<br>
+<h1> 📦Packages </h1>
+<h2> Chapa Payment SDK for NestJS </h2>
+
+[![npm version](https://badge.fury.io/js/chapa-payment-sdk-nest.svg)](https://www.npmjs.com/package/chapa-payment-sdk-nest)
+```bash
+npm i chapa-payment-sdk-nest
+
+```
 
 <!--
 <h1>About Me</h1>
