@@ -1,6 +1,6 @@
 
 
-<h1>Software Engineer | Fullstack Developer | UX-UI Designer</h1>
+<h1>Software Engineer | Project Manager | Blockchain Developer</h1>
 
 
 <!-- ## Portfolio:
@@ -10,15 +10,22 @@
  -->
 
 
-[<img align="left" alt="Telegram" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" />](https://t.me/yohhannees/)
-[<img align="left" alt="LinkedIn" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />](https://www.linkedin.com/in/yohannes-getachew-667a1b241/)
-[<img align="left" alt="LeetCode" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />](https://leetcode.com/yohhannees/)
-[<img align="left" alt="LeetCode" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" />](https://www.behance.net/yohannesgetachew)
-<a href="mailto:yohannesgetachewerieso@gmail.com"><img align="left" alt="Gmail" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" /></a>
+[<img align="center" alt="Telegram" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" />](https://t.me/yohhannees/)
+[<img align="center" alt="LinkedIn" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />](https://www.linkedin.com/in/yohannes-getachew-667a1b241/)
+[<img align="center" alt="LeetCode" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />](https://leetcode.com/yohhannees/)
+[<img align="center" alt="Behance" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" />](https://www.behance.net/yohannesgetachew)
+<a href="mailto:yohannesgetachewerieso@gmail.com"><img align="center" alt="Gmail" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" /></a>
+[<img align="center" alt="Twitter" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" />](https://twitter.com/yohhannees)
+[<img align="center" alt="NPM" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/npm.svg" />](https://www.npmjs.com/~yohhannees)
+[<img align="center" alt="WhatsApp" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" />](https://wa.me/+251938321124)
+
+
 
 <br>
 <br />
 <br>
+
+
 <h1> 📦Packages </h1>
 <h2> Chapa Payment SDK for NestJS </h2>
 
