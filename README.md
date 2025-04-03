@@ -18,28 +18,7 @@
 [<img align="center" alt="Twitter" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" />](https://twitter.com/yohhannees)
 [<img align="center" alt="NPM" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/npm.svg" />](https://www.npmjs.com/~yohhannees)
 [<img align="center" alt="WhatsApp" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" />](https://wa.me/+251938321124)
-<!--
 
-
-<br>
-<br />
-<br>
-
-
-<h1> 📦Packages </h1>
-<h2> Chapa Payment SDK for NestJS </h2>
-
-[![npm version](https://badge.fury.io/js/chapa-payment-sdk-nest.svg)](https://www.npmjs.com/package/chapa-payment-sdk-nest)
-```bash
-npm i chapa-payment-sdk-nest
-
-```
-
-<!--
-<h1>About Me</h1>
-<h3>🎓 Software Engineering Student at AASTU</h3>
-<h3>💻 Developer at Muyalogy</h3>
-<h3>🌐 GDSC React Mentor</h3>
 
 ## 💻 Tech Stack:
 <p>
@@ -47,21 +26,3 @@ npm i chapa-payment-sdk-nest
     <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,php,html,css,bootstrap,sass,tailwind,react,next,redux,angular,mongodb,mysql,postgres,nodejs,express,nestjs,laravel,prisma,firebase,supabase,postman,docker,wordpress,vercel,git,azure,gitlab,figma,xd&perline=17" />
   </a>
 </p>
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yohhannees&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohhannees&theme=highcontrast&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohhannees&theme=highcontrast&langs_count=20&hide_border=false&count_private=true&hide=html,css,scss" />
-</p>
-
-
-
-
-
