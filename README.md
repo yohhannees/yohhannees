@@ -23,6 +23,6 @@
 ## 💻 Tech Stack:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,php,html,css,bootstrap,sass,tailwind,react,next,redux,angular,mongodb,mysql,postgres,nodejs,express,nestjs,laravel,prisma,firebase,supabase,postman,docker,wordpress,vercel,git,azure,gitlab,figma,xd&perline=17" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,php,html,css,bootstrap,sass,tailwind,react,next,redux,angular,mongodb,mysql,postgres,nodejs,express,nestjs,laravel,prisma,firebase,supabase,postman,docker,wordpress,vercel,git,aws,cypress,figma,graphql,github,gitlabgcp,firebase,flask,elysia,django,bots,devto,bash,bun,azure,linkedin,redis,pnpm,rabbitmq,powershell,prisma,notion,netlify,mongodb,md,materialui,gitlab,figma,heroku,webflow,yarn,wordpress,solidity,vercel,jquery,androidstudio,vite,xd&perline=17" />
   </a>
 </p>
