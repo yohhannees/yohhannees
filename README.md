@@ -19,10 +19,11 @@
 [<img align="center" alt="NPM" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/npm.svg" />](https://www.npmjs.com/~yohhannees)
 [<img align="center" alt="WhatsApp" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" />](https://wa.me/+251938321124)
 
-
+<!--
 ## 💻 Tech Stack:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,php,html,css,bootstrap,sass,tailwind,react,next,redux,angular,mongodb,mysql,postgres,nodejs,express,nestjs,laravel,prisma,firebase,supabase,postman,docker,wordpress,vercel,git,aws,cypress,figma,graphql,github,gitlabgcp,firebase,flask,elysia,django,bots,devto,bash,bun,azure,linkedin,redis,pnpm,rabbitmq,powershell,prisma,notion,netlify,mongodb,md,materialui,gitlab,figma,heroku,webflow,yarn,wordpress,solidity,vercel,jquery,androidstudio,vite,xd&perline=17" />
   </a>
 </p>
+ -->
