@@ -11,7 +11,6 @@
 
 
 [<img align="center" alt="Telegram" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" />](https://t.me/yohhannees/)
-[<img align="center" alt="LinkedIn" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />](https://www.linkedin.com/in/yohannes-getachew-667a1b241/)
 [<img align="center" alt="LeetCode" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />](https://leetcode.com/yohhannees/)
 [<img align="center" alt="Behance" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" />](https://www.behance.net/yohannesgetachew)
 <a href="mailto:yohannesgetachewerieso@gmail.com"><img align="center" alt="Gmail" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" /></a>
@@ -23,6 +22,7 @@
 ## 💻 Tech Stack:
 <p>
   <a href="https://skillicons.dev">
+  [<img align="center" alt="LinkedIn" width="50px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />](https://www.linkedin.com/in/yohannes-getachew-667a1b241/)
     <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,php,html,css,bootstrap,sass,tailwind,react,next,redux,angular,mongodb,mysql,postgres,nodejs,express,nestjs,laravel,prisma,firebase,supabase,postman,docker,wordpress,vercel,git,aws,cypress,figma,graphql,github,gitlabgcp,firebase,flask,elysia,django,bots,devto,bash,bun,azure,linkedin,redis,pnpm,rabbitmq,powershell,prisma,notion,netlify,mongodb,md,materialui,gitlab,figma,heroku,webflow,yarn,wordpress,solidity,vercel,jquery,androidstudio,vite,xd&perline=17" />
   </a>
 </p>
