@@ -1,6 +1,6 @@
 
 
-<h1>Software Engineer | Project Manager | Blockchain Developer</h1>
+<h1>Software Engineer | Project/Product Manager | Blockchain Developer</h1>
 
 
 <!-- ## Portfolio:
