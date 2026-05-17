@@ -7,7 +7,6 @@
 <div align="center">
 
 <h1 style="font-family: 'Georgia', serif; font-weight: 500; color: #D1D5DB; letter-spacing: 0.5px;">Yohannes Getachew</h1>
-
 <p style="font-family: 'Georgia', serif; font-size: 17px; color: #9CA3AF;">
   Software Engineer&nbsp;&nbsp;·&nbsp;&nbsp;AI Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Blockchain Developer&nbsp;&nbsp;·&nbsp;&nbsp;Product &amp; Project Manager
 </p>
@@ -32,7 +31,7 @@
 <div align="center">
 <p style="font-family: 'Georgia', serif; font-size: 15px; color: #9CA3AF; max-width: 620px; line-height: 1.7;">
   Builder working at the intersection of <b>AI</b>, <b>Web3</b>, and <b>product engineering</b>.
-  I design and ship high-quality, product-driven systems — from LLM-powered applications
+  I design and ship high-quality, product-driven systems,from LLM-powered applications
   to decentralized protocols, bridging the gap between elegant design and reliable engineering.
 </p>
 </div>
@@ -95,8 +94,6 @@
 </p>
 
 </div>
-
-<br />
 
 <div align="center">
 <sub style="font-family: 'Georgia', serif; color: #6B7280;">Bridging Web2 &amp; Web3, one well-crafted product at a time.</sub>
