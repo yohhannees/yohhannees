@@ -1,9 +1,3 @@
-<!--
-=====================================================
-  Yohannes Getachew — Software Engineer · AI · Web3
-=====================================================
--->
-
 <div align="center">
 
 <h1 style="font-family: 'Georgia', serif; font-weight: 500; color: #D1D5DB; letter-spacing: 0.5px;">Yohannes Getachew</h1>
@@ -60,8 +54,6 @@
   </tr>
 </table>
 
-<br />
-
 <!-- ───────────────────────  CONNECT  ─────────────────────── -->
 
 <div align="center">
@@ -96,5 +88,7 @@
 </div>
 
 <div align="center">
-<sub style="font-family: 'Georgia', serif; color: #6B7280;">Bridging Web2 &amp; Web3, one well-crafted product at a time.</sub>
+  <h2 style="font-family: 'Georgia', serif; color: #6B7280; font-weight: 500;">
+    Bridging Web2 &amp; Web3, one well-crafted product at a time.
+  </h2>
 </div>
