@@ -11,7 +11,9 @@ Equally comfortable architecting systems, writing production code, leading teams
 ---
 
 <p>
-  <a href="https://yohannesgetachew.vercel.app/" target="_blank">Portfolio</a>
+   <a href="https://yohannesgetachew.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:yohannesgetachewerieso@gmail.com"><img alt="Email" height="22" src="https://cdn.simpleicons.org/gmail/9CA3AF" /></a>
   &nbsp;&nbsp;&nbsp;
